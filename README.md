@@ -1,5 +1,5 @@
 # Search Console
-A Programmable interface to manage search engine consoles.
+A Python Programmable interface to manage search engine consoles.
 
 ## Installation
 

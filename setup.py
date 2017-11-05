@@ -22,8 +22,8 @@ from setuptools import setup, find_packages
 setup(
     name='search-console',
     packages=find_packages(),
-    version='0.1.0',
-    description='Google search console API wrapper.',
+    version='0.1.1',
+    description='A Python Programmable interface to manage search engine consoles.',
     author='Biwin John Joseph',
     author_email='biwinjohn@gmail.com',
     url='https://github.com/biwin/search-console',
